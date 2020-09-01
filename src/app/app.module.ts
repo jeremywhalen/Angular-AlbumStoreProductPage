@@ -16,7 +16,7 @@ import { ProductListComponent } from './product-list/product-list.component'
     AppComponent,
     ProductPageComponent,
     ProductDescriptionComponent,
-    ProductTracklistingComponent,
+   // ProductTracklistingComponent,
     ProductListComponent
   ],
   imports: [
